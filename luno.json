@@ -1,0 +1,31 @@
+{
+  "name": "PleasureAndPain",
+  "version": "1.0.0",
+  "description": "Interactive 3D Reinforcement Neural Network with Physical Bulb & Button Feedback",
+  "type": "luno-web-app",
+  "entrypoint": {
+    "file": "src/PleasureAndPain.js",
+    "class": "PleasureAndPain",
+    "method": "run"
+  },
+  "main": [
+    "src/ModelLoader.js",
+    "src/Simple3dShapes.js",
+    "src/NeuronGrid.js",
+    "src/GridWalker.js",
+    "src/ExternalDeviceManager.js",
+    "src/NetworkControlsUI.js",
+    "src/PleasureAndPain.js"
+  ],
+  "library": [
+    "DomBasics.js",
+    "UITools.js",
+    "ThreeJSLoader.js"
+  ],
+  "styles": [],
+  "processedCountSinceCheckpoint": 2,
+  "changedMethods": {
+    "Luno/docs/LunoWorkspaceHandoff.md": "2026-09-07T20:58:33.644Z",
+    "Luno/docs/AccuCadHandoff.md": "2026-09-07T20:58:33.644Z"
+  }
+}
