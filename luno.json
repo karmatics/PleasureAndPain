@@ -23,9 +23,11 @@
     "ThreeJSLoader.js"
   ],
   "styles": [],
-  "processedCountSinceCheckpoint": 2,
+  "processedCountSinceCheckpoint": 0,
   "changedMethods": {
     "Luno/docs/LunoWorkspaceHandoff.md": "2026-09-07T20:58:33.644Z",
     "Luno/docs/AccuCadHandoff.md": "2026-09-07T20:58:33.644Z"
-  }
+  },
+  "lastCheckpointTime": "2026-10-06T20:15:09.093Z",
+  "pendingCheckpointDescription": "Clean working tree"
 }
